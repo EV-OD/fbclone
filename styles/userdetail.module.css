@@ -1,0 +1,33 @@
+.usercard{
+    margin: 10px;
+    border-radius: 10px;
+    width: 35%;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 0.8em;
+    margin-inline: auto;
+    padding-block: 10px;
+}
+.userimage{
+    object-fit: cover;
+}
+
+.detail{
+    text-align: left;
+    margin-inline: 30px;
+}
+.voteBox{
+    border-radius: 3px;
+    background-color: rgba(255,255,255,0.6);
+    border: 1px solid rgba(255,255,255,0.6);
+    backdrop-filter: blur(30px);
+    display: inline-block;
+    padding: 10px;
+    padding-block: 5px;
+}
+
+@media only screen and (max-width:500px) {
+    .usercard{
+        width: 98%;
+    }
+}

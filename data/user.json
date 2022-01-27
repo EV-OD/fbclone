@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "username":"Rabin",
+        "avatar":"https://i.pinimg.com/originals/4c/41/ef/4c41eff22888e5e5d8277cf5121691db.png",
+        "vote":0,
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur accumsan tristique sollicitudin. Nulla mauris nulla, faucibus sit amet eleifend id, elementum in sapien. Quisque imperdiet vitae nunc eu vestibulum. Aenean turpis tortor, dictum nec enim ut, venenatis dapibus lorem. Aenean sit amet consequat lacus, ac ultrices orci. Nunc hendrerit aliquam erat a suscipit. Quisque pretium suscipit metus, dapibus congue libero mollis eu."
+    },
+    {
+        "id":2,
+        "username":"Subhash",
+        "avatar":"https://i.pinimg.com/originals/4c/41/ef/4c41eff22888e5e5d8277cf5121691db.png",
+        "vote":0,
+        "detail":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur accumsan tristique sollicitudin. Nulla mauris nulla, faucibus sit amet eleifend id, elementum in sapien. Quisque imperdiet vitae nunc eu vestibulum. Aenean turpis tortor, dictum nec enim ut, venenatis dapibus lorem. Aenean sit amet consequat lacus, ac ultrices orci. Nunc hendrerit aliquam erat a suscipit. Quisque pretium suscipit metus, dapibus congue libero mollis eu."
+    }
+]
